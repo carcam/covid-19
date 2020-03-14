@@ -29,6 +29,6 @@ if (!in_array($languageFolder, $whoLanguages))
 <img src="https://www.who.int/ResourcePackages/WHO/assets/dist/images/logos/<?php echo $languageFolder;?>/h-logo-blue.svg" alt="<?php echo Text::_('MOD_COVID19_WHO')?>">
 <p class="covid19__hashtag">
 <a href="https://www.who.int/csr/disease/coronavirus_infections/<?php echo $languageFolder;?>/" target="_blank" id="covid19" rel="noopener noreferrer">
-#<?php echo str_replace(" ", "", strtolower(Text::_('MOD_COVID19_FLATTENTHECURVE'))); ?></a>
+#<?php echo Text::_('MOD_COVID19_FLATTENTHECURVE'); ?></a>
 </p>
 </div>

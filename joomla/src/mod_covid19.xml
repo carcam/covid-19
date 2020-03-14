@@ -18,5 +18,8 @@
 		<language tag="en-GB">languages/en-GB/en-GB.mod_covid19.ini</language>
 		<language tag="es-ES">languages/es-ES/es-ES.mod_covid19.sys.ini</language>
 		<language tag="es-ES">languages/es-ES/es-ES.mod_covid19.sys.ini</language>
+		<language tag="it-IT">languages/it-IT/it-IT.mod_covid19.ini</language>
+		<language tag="fr-FR">languages/fr-FR/fr-FR.mod_covid19.ini</language>
+		<language tag="de-DE">languages/de-DE/de-DE.mod_covid19.ini</language>
 	</languages>
 </extension>
