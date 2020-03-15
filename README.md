@@ -35,9 +35,11 @@ Use a custom HTML tag and add this to content:
 ```html
 <script async type="text/javascript" src="https://www.devblinders.com/includes/covid19_en.js"></script>
 ```
+Then, from "Activator", select "All Pages" by default. Just send the changes and check in Incognito Mode.
 
+</br>
 
-# Versión en Castellano - Campaña concienciación covid-19
+# Castellano - Campaña concienciación covid-19
 Stop desinformación #FrenarLaCurva
 
 Campaña de concienciación a la población sobre el coronavirus (Covid-19).
@@ -85,4 +87,3 @@ La etiqueta tiene que ser de tipo HTML Personalizado y en el contenido, lo únic
 ```
 
 Después, en activador tenéis que seleccionar el que viene por defecto de All Pages (Todas las páginas). Y por último ya sólo queda que envíes los cambios y revises que se ve en incógnito.
-
