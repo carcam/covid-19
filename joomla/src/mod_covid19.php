@@ -15,6 +15,7 @@ defined('_JEXEC') or die;
 use \Joomla\CMS\HTML\HTMLHelper;
 
 HTMLHelper::stylesheet('mod_covid19/mod_covid19.css', array('relative' => true));
+HTMLHelper::script('mod_covid19/mod_covid19.js', array('relative' => true), array('defer'=>'true'));
 
 $moduleclass_sfx = htmlspecialchars($params->get('moduleclass_sfx'));
 
